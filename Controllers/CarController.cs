@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using mis321_bonus_aevansmartinez.models;
 using mis321_bonus_aevansmartinez.interfaces;
-using mis321_bonus_aevansmartinez.database;
+using mis321_bonus_aevansmartinez.utilities;
 
 namespace mis321_bonus_aevansmartinez.Controllers
 {
