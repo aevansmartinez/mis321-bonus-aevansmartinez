@@ -1,0 +1,54 @@
+.banner {
+    background-color: black;
+    text-color: white;
+    font-variant: small-caps;
+    font-style: italic;
+    font-size:25px;
+    color: white;
+    margin-top: 5px;
+    text-align: left;
+    padding: 1px 10px;
+}
+.btn-hold{
+    background-color: rgb(59, 59, 59) !important;
+    color: white !important;
+}
+
+.btn-delete{
+    background-color: rgb(101, 10, 10) !important;
+    color: white !important;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    align-items: center;
+    padding-bottom: 100px;
+}
+
+.logo1 {
+    text-align: left;
+    margin-left: 80px;
+}
+.search{
+    padding-right: 80px;
+}
+
+.searchbox{
+    display: inline-block;
+    border: 2px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 200px;
+}
+
+.navbar {
+    height: 80px;
+    min-height: 0;
+    border: none;
+    border-radius: none;
+    margin: 0;
+    z-index: 1;
+}
+
+
